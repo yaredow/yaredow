@@ -12,4 +12,4 @@
 </br>
 
 [![Yared's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaredow)](https://github.com/yaredow/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaredow)](https://github.com/yaredow/github-readme-stats)
