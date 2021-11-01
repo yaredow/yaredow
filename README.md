@@ -10,6 +10,9 @@
   <img align="left" alt="Yared's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </br>
-
-[![Yared's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaredow)](https://github.com/yaredow/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaredow)](https://github.com/yaredow/github-readme-stats)
+hi, i'm Yared Yilma, currently studying software engineering at <a href="https://www.alxafrica.com/">ALX software engineering school</a>
+</br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yaredow&show_icons=true&theme=gotham" alt="yaredow" />
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaredow&hide=TeX&layout=compact)
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
