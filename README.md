@@ -9,4 +9,7 @@
 <a href="https://www.linkedin.com/in/yared-yilma-37b586221/">
   <img align="left" alt="Yared's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yaredow&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaredow&hide=TeX&layout=compact)
+
 
