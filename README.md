@@ -1,4 +1,9 @@
 ## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</br>
+i'm <b>Yared Yilma</b>, currently studying software engineering at <a href="https://www.alxafrica.com/">ALX software engineering school</a>
+
+
+</br>
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Yared's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -9,10 +14,6 @@
 <a href="https://www.linkedin.com/in/yared-yilma-37b586221/">
   <img align="left" alt="Yared's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-</br>
-
-hi, i'm Yared Yilma, currently studying software engineering at <a href="https://www.alxafrica.com/">ALX software engineering school</a>
-</br>
 
 **languages and tools:**
 
