@@ -1,4 +1,4 @@
-## hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 </br>
 i'm <b>Yared Yilma</b>, currently studying software engineering at <a href="https://www.alxafrica.com/">ALX software engineering school</a>
 </br>
