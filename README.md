@@ -9,7 +9,7 @@ i'm <b>Yared Yilma</b>, currently studying software engineering at <a href="http
 <a href="https://discord.com/channels/@me">
   <img align="left" alt="Yared's discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/yaredyilmatege">
+<a href="https://twitter.com/yaredow">
   <img align="left" alt="Yared Yilma | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yared-yilma-37b586221/">
