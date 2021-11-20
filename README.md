@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently learning software engineering at **[ALX](https://www.alxafrica.com/)**
+- 🔭 I’m currently learning software engineering at **[ALX](https://www.alxafrica.com)**
 
 - 🌱 I’m part of 100 days of Python challenge at  **[Udemy](https://www.udemy.com/)**
 
