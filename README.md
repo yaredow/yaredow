@@ -57,7 +57,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "yared-yilma-37b586221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/yared-yilma-37b586221/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "twitter.com/yaredow"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.facebook.com/yared.yilma.96"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png"/></a>
 
