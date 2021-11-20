@@ -1,5 +1,4 @@
-<a href="#"><img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="250" />
-</a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yared</h1>
 <h3 align="center">I'm a passionate soon-to-be Front-end Developer from Ethiopia.</h3>
@@ -19,7 +18,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="center"> 
+<p align="left"> 
     <a href="https://isocpp.org/" target="_blank">  <img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/>  </a>
      <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
      <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
