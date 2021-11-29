@@ -58,7 +58,8 @@
 ## 📕 Latest Blog Posts
     
 <!-- BLOG-POST-LIST:START -->
-    
+- [What will happen when you type ls -l *.c in Linux shell?](https://medium.com/@yaredyilma11/what-will-happen-when-you-type-ls-l-c-in-linux-shell-cfd6efe33a25?source=rss-21d8d9c98d75------2)
+- [What feels like studying 8 hours per day](https://medium.com/@yaredyilma11/what-feels-like-studying-8-hours-per-day-6a66c3441a3e?source=rss-21d8d9c98d75------2)
 <!-- BLOG-POST-LIST:END -->
 
 
