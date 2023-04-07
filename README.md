@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yared</h1>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&lines=A+Frontend+Web+Developer+from+Ethiopia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=22&lines=A+Front-end+Web+Developer+from+Ethiopia)](https://git.io/typing-svg)
     
     
 ## 🙋‍♂️ About Me
