@@ -26,8 +26,8 @@
      <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
      <img src="https://img.icons8.com/color/48/000000/html.png"/>
      <img src="https://img.icons8.com/color/48/000000/css.png"/>
-     <img src="https://img.icons8.com/color/256/bootstrap.png"/>
-     <img src="https://img.icons8.com/color/256/javascript.png"/>
+     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
      
     
     
