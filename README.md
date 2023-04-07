@@ -7,7 +7,7 @@
     
 ## 🙋‍♂️ About Me
 
-- 🔭 Graduated from **[ALX](https://www.alxafrica.com)** in front-end web development.
+- 🔭 I Graduated from **[ALX](https://www.alxafrica.com)** in front-end web development.
 
 - 🌱 I'm currently learning JavaScript  **[Udemy](https://www.udemy.com/)**
 
