@@ -73,7 +73,8 @@
 <!-- otherwise use the package name -->
 <!-- example using the package name: -->
 <!-- <script src="https://cdn.jsdelivr.net/npm/medium-rss/dist/medium-rss.umd.min.js"></script> -->
-<script src="./node_modules/medium-rss/dist/medium-rss.umd.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/medium-rss/dist/medium-rss.umd.min.js"></script>
+
 
 <!-- specify the container for the blog posts -->
 <div id="medium-blog-post-list">
