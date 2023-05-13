@@ -77,13 +77,13 @@
 <script src="./node_modules/medium-rss/dist/medium-rss.umd.min.js"></script>
 
 <!-- specify the container for the blog posts -->
-<div id="medium-blog-post-list"></div>
+<div id="medium-blog-post-list">
 
 <script>
   const MEDIUM_RSS_TOKEN = "2975730a3b5b69bc4a0be5f1e8076fc370e8f590e12679c387682f962f581b391";
   const feed = new MediumRSS.Feed({
     userId: "yaredyilma11",
-    token: "2975730a3b5b69bc4a0be5f1e8076fc370e8f590e12679c387682f962f581b391",
+    token: MEDIUM_RSS_TOKEN,
   });
 
   feed.load(function(err, rss) {
@@ -104,6 +104,7 @@
 
     document.getElementById("medium-blog-post-list").innerHTML = posts.join("");
   });
+</div>
 </script>
 <!-- BLOG-POST-LIST:END -->
 
