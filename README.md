@@ -83,7 +83,7 @@
   const MEDIUM_RSS_TOKEN = "2975730a3b5b69bc4a0be5f1e8076fc370e8f590e12679c387682f962f581b391";
   const feed = new MediumRSS.Feed({
     userId: "yaredyilma11",
-    token: MEDIUM_RSS_TOKEN
+    token: "2975730a3b5b69bc4a0be5f1e8076fc370e8f590e12679c387682f962f581b391",
   });
 
   feed.load(function(err, rss) {
