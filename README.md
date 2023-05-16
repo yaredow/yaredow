@@ -58,55 +58,6 @@
 <br/>
 <br/>
     
-## 📕 Latest Blog Posts
-    
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace MEDIUM_RSS_TOKEN with your generated token -->
-<!-- To get your Medium RSS token, follow the instructions at https://help.medium.com/hc/en-us/articles/214874118-Using-RSS-feeds-of-profiles-and-publications -->
-
-<!-- run `npm install medium-rss` or `yarn add medium-rss` -->
-<!-- in case the package is not installed -->
-
-<!-- import the package -->
-<!-- make sure to use the correct path to the package -->
-<!-- in case the package is installed locally use the relative path -->
-<!-- otherwise use the package name -->
-<!-- example using the package name: -->
-<!-- <script src="https://cdn.jsdelivr.net/npm/medium-rss/dist/medium-rss.umd.min.js"></script> -->
-<script src="https://cdn.jsdelivr.net/npm/medium-rss/dist/medium-rss.umd.min.js"></script>
-
-
-<!-- specify the container for the blog posts -->
-<div id="medium-blog-post-list">
-
-<script>
-  const MEDIUM_RSS_TOKEN = "2975730a3b5b69bc4a0be5f1e8076fc370e8f590e12679c387682f962f581b391";
-  const feed = new MediumRSS.Feed({
-    userId: "yaredyilma11",
-    token: MEDIUM_RSS_TOKEN,
-  });
-
-  feed.load(function(err, rss) {
-    if (err) {
-      console.error(err);
-      return;
-    }
-
-    const posts = rss.items.map(item => {
-      return `
-        <div>
-          <a href="${item.link}">${item.title}</a>
-          <p>${item.contentSnippet}</p>
-          <hr>
-        </div>
-      `;
-    });
-
-    document.getElementById("medium-blog-post-list").innerHTML = posts.join("");
-  });
-</div>
-</script>
-<!-- BLOG-POST-LIST:END -->
 
 <br/>
 <br/>
