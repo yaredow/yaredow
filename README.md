@@ -30,7 +30,8 @@
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
     <img src="https://img.icons8.com/color/48/000000/redux.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
-    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/2c89dd886b291637b8c70c1f7bfa332ae98e4110/assets/logo.svg" alt="Tailwind CSS Logo" width="48" height="48"/>
+   ![Tailwind CSS Logo](https://raw.githubusercontent.com/tailwindlabs/tailwindcss/2c89dd886b291637b8c70c1f7bfa332ae98e4110/assets/logo.svg)
+
 
 </p>
 
