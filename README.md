@@ -28,7 +28,7 @@
      <img src="https://img.icons8.com/color/48/000000/css.png"/>
      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-     <img src="https://icons8.com/icon/bzf0DqjXFHIW/react"
+     <img src="https://icons8.com/icon/bzf0DqjXFHIW/react.png"
     
      
     
