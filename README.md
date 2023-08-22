@@ -28,10 +28,10 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png"/>
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
     <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
     <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/2c89dd886b291637b8c70c1f7bfa332ae98e4110/assets/logo.svg" alt="Tailwind CSS Logo" width="48" height="48"/>
 
-    <img src="https://img.icons8.com/color/48/000000/redux.png"/>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
