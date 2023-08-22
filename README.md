@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
+![image](https://github.com/yaredow/yaredow/assets/87979010/154830f9-d534-4e0a-acd0-d78c7df2751a)<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yared</h1>
     
@@ -28,6 +28,8 @@
      <img src="https://img.icons8.com/color/48/000000/css.png"/>
      <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
      <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+     <img src="https://icons8.com/icon/bzf0DqjXFHIW/react"
+    
      
     
     
