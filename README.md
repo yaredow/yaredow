@@ -9,7 +9,7 @@
 
 - 🔭 I Graduated from **[ALX](https://www.alxafrica.com)** in front-end web development.
 
-- 🌱 I'm currently learning JavaScript at **[Udemy](https://www.udemy.com/)**
+- 🌱 I'm currently learning JavaScript back-end web development
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
