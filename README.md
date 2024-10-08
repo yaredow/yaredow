@@ -1,6 +1,6 @@
 # Hi 👋 I am Yared!
 
-I am a full-stack web developer and a passionate learner.
+A full-stack web developer and a passionate learner.
 
 - 🌐 Visit my [portfolio website](https://yared-dev.vercel.app/) for more information and to get in touch.
 
