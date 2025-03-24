@@ -2,7 +2,7 @@
 
 A full-stack web developer and a passionate learner.
 
-- 🌐 Visit my [portfolio website](https://yared-dev.vercel.app/) for more information and to get in touch.
+- 🌐 Visit my [portfolio website](https://yaredyilma.dev) for more information and to get in touch.
 
 ---
 
