@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0366D6&center=true&vCenter=true&width=440&lines=full-stack+software+engineer;backend+%26+apps;open+source+enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0366D6&center=true&vCenter=true&width=440&lines=full-stack+software+engineer;open+source+enthusiast;passionate+learner" alt="Typing SVG" />
   </a>
 </p>
 
