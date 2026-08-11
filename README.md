@@ -1,4 +1,4 @@
-Building things for the web.
+Software Engineer
 [yaredyilma.dev](https://yaredyilma.dev)
 &nbsp;·&nbsp;
 [@yaredow](https://x.com/yaredow)
