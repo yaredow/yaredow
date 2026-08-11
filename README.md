@@ -1,4 +1,4 @@
-Software Engineer
+Full-stack engineer building web & mobile apps
 [yaredyilma.dev](https://yaredyilma.dev)
 &nbsp;·&nbsp;
 [@yaredow](https://x.com/yaredow)
