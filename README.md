@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0366D6&center=true&vCenter=true&width=440&lines=full-stack+web+developer;open+source+enthusiast;passionate+learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=0366D6&center=true&vCenter=true&width=440&lines=full-stack+software+engineer;backend+%26+apps;open+source+enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -17,7 +17,9 @@
   <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react" />
+  <img src="https://img.shields.io/badge/Expo-000?style=flat-square&logo=expo" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white" />
 </p>
 
